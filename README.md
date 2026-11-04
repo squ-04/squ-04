@@ -64,7 +64,7 @@ Busco oportunidades en **desarrollo backend, infraestructura y arquitectura de s
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Microservicios](https://img.shields.io/badge/Arquitectura-Microservicios-0052CC?style=flat-square)
+![Microservicios y Monolito](https://img.shields.io/badge/Arquitectura-Microservicios%20%7C%20Monolito-0052CC?style=flat-square)
 ![Redes](https://img.shields.io/badge/Infraestructura-Redes%20y%20Proxy--Cach%C3%A9-0B7285?style=flat-square)
 
 </div>
